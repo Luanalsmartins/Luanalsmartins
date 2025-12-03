@@ -1,6 +1,6 @@
 # 👩‍💻 Luana L S Martins
 **`Desenvolvedora FullStack`**
-Me chamo Luana Lima da Silva Martins, tenho 22 anos e sou natural de Ribeirão do Sul, SP. Tenho curso técnico em administração e sou tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos. Aqui você encontrará alguns dos meus projetos. 
+Me chamo Luana Lima da Silva Martins, tenho 22 anos e sou natural de São Paulo. Tenho curso técnico em administração e sou tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos. Aqui você encontrará alguns dos meus projetos. 
 ---
 ### 🤖 Linguagens e tecnologias
  
