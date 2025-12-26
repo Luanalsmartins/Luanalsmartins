@@ -1,5 +1,5 @@
 <!-- ===================== ONDA SUPERIOR (VISUAL) ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=80&section=header"/>
 
 <!-- ===================== NOME + TÍTULO PROFISSIONAL ===================== -->
 <h1 align="center">👩‍💻 Luana L S Martins</h1>
@@ -42,7 +42,7 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 </p>
 
 <!-- ===================== PROJETOS (ESSENCIAL PARA RECRUTADORES) ===================== -->
-## 📌 Projetos em destaque
+<!-- ## 📌 Projetos em destaque -->
 
 
 
@@ -67,4 +67,4 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 </p>
 
 <!-- ===================== ONDA INFERIOR (VISUAL) ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=80&section=footer"/>
