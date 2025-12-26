@@ -1,58 +1,62 @@
-# 👩‍💻 Luana L S Martins
-**`Desenvolvedora FullStack`**
-Me chamo Luana Lima da Silva Martins, tenho 22 anos e sou natural de São Paulo. Sou técnica em administração e tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos. Aqui você encontrará alguns dos meus projetos. 
----
-### 🤖 Linguagens e tecnologias
- 
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+<h1 align="center">👩‍💻 Luana L S Martins</h1>
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-          
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<br/>
-<br/>
-          
-### 📊 Estatísticas
-
-<p>
-
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Luanalsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-    align="left"
-    alt="Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanalsmartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"
-/>
-
-
+<p align="center">
+  <strong>Desenvolvedora Fullstack em formação</strong> 🚀
 </p>
 
+---
+
+## ✨ Sobre mim
+
+Olá! Eu sou a **Luana Lima da Silva Martins**, tenho **22 anos** e sou natural de **São Paulo**.
+
+🎓 Sou formada como técnica em **Administração** e em **Tecnologia em Análise e Desenvolvimento de Sistemas** pela **FATEC Ourinhos**.  
+💡 Sou movida por curiosidade, aprendizado contínuo e pela vontade de transformar ideias em soluções através da tecnologia.  
+📂 Aqui no meu GitHub você vai encontrar projetos, estudos e experimentos que fazem parte da minha jornada como desenvolvedora.
+
+---
+
+## 🌱 Atualmente estudando
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+📌 **HTML5**, **CSS3** e **JavaScript**, focando em:
+- Estrutura e semântica
+- Estilização moderna e responsiva
+- Lógica de programação e interatividade
+
+---
+
+## 🧠 Linguagens e Tecnologias
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Vamos nos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
