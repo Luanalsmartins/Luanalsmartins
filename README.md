@@ -59,11 +59,11 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 ## 📊 Estatísticas
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luanalsmartins&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanalsmartins&layout=compact&theme=tokyonight" />
 </p>
 
 <!-- ===================== CONTATO PROFISSIONAL ===================== -->
