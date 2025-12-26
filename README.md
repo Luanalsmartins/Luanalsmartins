@@ -56,7 +56,7 @@ Olá! Eu sou a **Luana Lima da Silva Martins**, tenho **22 anos** e sou natural 
 ## 🔗 Vamos nos conectar?
 
 <p>
-  <a href="www.linkedin.com/in/luana-lima-da-silva-martins/" target="_blank">
+  <a href="https://www.linkedin.com/in/luana-lima-da-silva-martins/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
