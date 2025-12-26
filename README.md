@@ -42,8 +42,17 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 </p>
 
 <!-- ===================== PROJETOS (ESSENCIAL PARA RECRUTADORES) ===================== -->
-<!-- ## 📌 Projetos em destaque -->
+## 📌 Projetos em destaque
 
+### 🤖 Projeto Android
+> Projeto front-end desenvolvido com foco em **HTML5**, **CSS3** e **responsividade**.
+
+- 📱 Layout adaptável para diferentes telas  
+- 🧱 Uso de HTML semântico  
+- 🎨 Estilização moderna com CSS  
+
+🔗 **Ver projeto:** https://luanalsmartins.github.io/projeto-android/  
+📁 **Código:** https://github.com/luanalsmartins/projeto-android
 
 
 <!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
