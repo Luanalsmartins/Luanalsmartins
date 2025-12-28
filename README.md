@@ -55,7 +55,7 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 📁 **Código:** https://github.com/luanalsmartins/projeto-android
 
 
-<!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
+<!-- ===================== ESTATÍSTICAS DO GITHUB ===================== 
 ## 📊 Estatísticas
 
 <p>
@@ -65,6 +65,8 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanalsmartins&layout=compact&theme=tokyonight" />
 </p>
+
+-->
 
 <!-- ===================== CONTATO PROFISSIONAL ===================== -->
 ## 🔗 Vamos nos conectar?
