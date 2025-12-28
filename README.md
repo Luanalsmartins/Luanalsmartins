@@ -54,6 +54,18 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 🔗 **Ver projeto:** https://luanalsmartins.github.io/projeto-android/  
 📁 **Código:** https://github.com/luanalsmartins/projeto-android
 
+### 🌐 Projeto Redes Sociais
+> Projeto front-end desenvolvido para simular a navegação em um **smartphone**, com foco em **HTML5**, **CSS3**, **iframes** e **responsividade**.
+
+- 📱 Interface inspirada em um celular (frame de smartphone)
+- 🔁 Navegação dinâmica utilizando **iframe**
+- 🎯 Menu lateral com botões de redes sociais
+- 📐 Ajustes responsivos para desktop e dispositivos móveis
+- 🎨 Estilização moderna com CSS
+
+🔗 **Ver projeto:** https://luanalsmartins.github.io/projeto-redes-sociais/  
+📁 **Código:** https://github.com/luanalsmartins/projeto-redes-sociais
+
 
 <!-- ===================== ESTATÍSTICAS DO GITHUB ===================== 
 ## 📊 Estatísticas
