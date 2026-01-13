@@ -45,26 +45,44 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 ## 📌 Projetos em destaque
 
 ### 🤖 Projeto Android
-> Projeto front-end desenvolvido com foco em **HTML5**, **CSS3** e **responsividade**.
 
-- 📱 Layout adaptável para diferentes telas  
-- 🧱 Uso de HTML semântico  
-- 🎨 Estilização moderna com CSS  
+Projeto front-end desenvolvido com foco em HTML5, CSS3 e responsividade.
 
-🔗 **Ver projeto:** https://luanalsmartins.github.io/projeto-android/  
-📁 **Código:** https://github.com/luanalsmartins/projeto-android
+• Layout adaptável para diferentes telas
+• Uso de HTML semântico
+• Estilização moderna com CSS
 
-### 🌐 Projeto Redes Sociais
-> Projeto front-end desenvolvido para simular a navegação em um **smartphone**, com foco em **HTML5**, **CSS3**, **iframes** e **responsividade**.
+Ver projeto: https://luanalsmartins.github.io/projeto-android/
 
-- 📱 Interface inspirada em um celular (frame de smartphone)
-- 🔁 Navegação dinâmica utilizando **iframe**
-- 🎯 Menu lateral com botões de redes sociais
-- 📐 Ajustes responsivos para desktop e dispositivos móveis
-- 🎨 Estilização moderna com CSS
+Código: https://github.com/luanalsmartins/projeto-android
 
-🔗 **Ver projeto:** https://luanalsmartins.github.io/projeto-redes-sociais/  
-📁 **Código:** https://github.com/luanalsmartins/projeto-redes-sociais
+### 📱 Projeto Redes Sociais
+
+Projeto front-end desenvolvido para simular a navegação em um smartphone, com foco em HTML5, CSS3, iframes e responsividade.
+
+• Interface inspirada em um smartphone
+• Navegação dinâmica utilizando iframe
+• Menu lateral com botões de redes sociais
+• Ajustes responsivos para desktop e dispositivos móveis
+• Estilização moderna com CSS
+
+Ver projeto: https://luanalsmartins.github.io/projeto-redes-sociais/
+
+Código: https://github.com/luanalsmartins/projeto-redes-sociais
+
+### 🌐 Projeto Login
+
+Projeto front-end desenvolvido com foco em HTML5, CSS3 e JavaScript, simulando uma interface de autenticação.
+
+• Tela de login com campos de usuário e senha
+• Layout adaptável para diferentes tamanhos de tela
+• Estrutura organizada com HTML semântico
+• Estilização moderna com CSS
+• Validação básica de formulário com JavaScript
+
+Ver projeto: https://luanalsmartins.github.io/projeto-login/
+
+Código: https://github.com/luanalsmartins/projeto-login
 
 <!-- ===================== ESTATÍSTICAS DO GITHUB ===================== 
 ## 📊 Estatísticas
