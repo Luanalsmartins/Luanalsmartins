@@ -84,7 +84,7 @@ Ver projeto: https://luanalsmartins.github.io/projeto-login/
 
 Código: https://github.com/luanalsmartins/projeto-login
 
-<!-- ===================== ESTATÍSTICAS DO GITHUB ===================== 
+<!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
 ## 🧠 Tecnologias
 
 ### Front-end
