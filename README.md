@@ -85,27 +85,19 @@ Ver projeto: https://luanalsmartins.github.io/projeto-login/
 Código: https://github.com/luanalsmartins/projeto-login
 
 <!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
-## 🧠 Tecnologias
+## 📊 Estatísticas do GitHub
 
-### Front-end
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight"
+  />
 </p>
 
-- **HTML5** — semântica, estrutura e acessibilidade  
-- **CSS3** — layouts responsivos, flexbox e media queries  
-- **JavaScript** — lógica, DOM e validações de formulário  
-
-### Ferramentas
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</p>
-
-- **Git** — versionamento de código  
-- **GitHub** — repositórios e GitHub Pages
 
 <!-- ===================== CONTATO PROFISSIONAL ===================== -->
 ## 🔗 Vamos nos conectar?
