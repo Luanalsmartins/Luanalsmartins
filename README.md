@@ -85,17 +85,27 @@ Ver projeto: https://luanalsmartins.github.io/projeto-login/
 Código: https://github.com/luanalsmartins/projeto-login
 
 <!-- ===================== ESTATÍSTICAS DO GITHUB ===================== 
-## 📊 Estatísticas
+## 🧠 Tecnologias
 
+### Front-end
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Luanalsmartins&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
+- **HTML5** — semântica, estrutura e acessibilidade  
+- **CSS3** — layouts responsivos, flexbox e media queries  
+- **JavaScript** — lógica, DOM e validações de formulário  
+
+### Ferramentas
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanalsmartins&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
 
--->
+- **Git** — versionamento de código  
+- **GitHub** — repositórios e GitHub Pages
 
 <!-- ===================== CONTATO PROFISSIONAL ===================== -->
 ## 🔗 Vamos nos conectar?
