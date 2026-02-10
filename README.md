@@ -72,13 +72,14 @@ Código: https://github.com/luanalsmartins/projeto-redes-sociais
 
 ### 🌐 Projeto Login
 
-Projeto front-end desenvolvido com foco em HTML5, CSS3 e JavaScript, simulando uma interface de autenticação.
+Projeto front-end desenvolvido com foco em HTML5, CSS3 e JavaScript, simulando uma interface de autenticação com foco em experiência do usuário (UX) e validação em tempo real.
 
-• Tela de login com campos de usuário e senha
-• Layout adaptável para diferentes tamanhos de tela
+• Tela de login com validação dinâmica de email e senha
+• Feedback visual imediato (bordas, mensagens e animações)
+• Layout responsivo para mobile, tablet e desktop
 • Estrutura organizada com HTML semântico
-• Estilização moderna com CSS
-• Validação básica de formulário com JavaScript
+• Estilização moderna com CSS e animações
+• Manipulação do DOM e eventos com JavaScript puro
 
 Ver projeto: https://luanalsmartins.github.io/projeto-login/
 
