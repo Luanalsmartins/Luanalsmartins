@@ -44,17 +44,20 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
 <!-- ===================== PROJETOS (ESSENCIAL PARA RECRUTADORES) ===================== -->
 ## 📌 Projetos em destaque
 
-### 🤖 Projeto Android
+### 🌐 Projeto Login
 
-Projeto front-end desenvolvido com foco em HTML5, CSS3 e responsividade.
+Projeto front-end desenvolvido com foco em HTML5, CSS3 e JavaScript, simulando uma interface de autenticação com foco em experiência do usuário (UX) e validação em tempo real.
 
-• Layout adaptável para diferentes telas
-• Uso de HTML semântico
-• Estilização moderna com CSS
+• Tela de login com validação dinâmica de email e senha
+• Feedback visual imediato (bordas, mensagens e animações)
+• Layout responsivo para mobile, tablet e desktop
+• Estrutura organizada com HTML semântico
+• Estilização moderna com CSS e animações
+• Manipulação do DOM e eventos com JavaScript puro
 
-Ver projeto: https://luanalsmartins.github.io/projeto-android/
+Ver projeto: https://luanalsmartins.github.io/projeto-login/
 
-Código: https://github.com/luanalsmartins/projeto-android
+Código: https://github.com/luanalsmartins/projeto-login
 
 ### 📱 Projeto Redes Sociais
 
@@ -70,20 +73,18 @@ Ver projeto: https://luanalsmartins.github.io/projeto-redes-sociais/
 
 Código: https://github.com/luanalsmartins/projeto-redes-sociais
 
-### 🌐 Projeto Login
+### 🤖 Projeto Android
 
-Projeto front-end desenvolvido com foco em HTML5, CSS3 e JavaScript, simulando uma interface de autenticação com foco em experiência do usuário (UX) e validação em tempo real.
+Projeto front-end desenvolvido com foco em HTML5, CSS3 e responsividade.
 
-• Tela de login com validação dinâmica de email e senha
-• Feedback visual imediato (bordas, mensagens e animações)
-• Layout responsivo para mobile, tablet e desktop
-• Estrutura organizada com HTML semântico
-• Estilização moderna com CSS e animações
-• Manipulação do DOM e eventos com JavaScript puro
+• Layout adaptável para diferentes telas
+• Uso de HTML semântico
+• Estilização moderna com CSS
 
-Ver projeto: https://luanalsmartins.github.io/projeto-login/
+Ver projeto: https://luanalsmartins.github.io/projeto-android/
 
-Código: https://github.com/luanalsmartins/projeto-login
+Código: https://github.com/luanalsmartins/projeto-android
+
 
 <!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
 ## 📊 Estatísticas do GitHub
