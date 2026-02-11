@@ -41,7 +41,23 @@ Sou desenvolvedora **Front-end em formação**, com foco em **HTML5, CSS3 e Java
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="github"/>
 </p>
 
+<!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight"
+  />
+</p>
+
 <!-- ===================== PROJETOS (ESSENCIAL PARA RECRUTADORES) ===================== -->
+
 ## 📌 Projetos em destaque
 
 ### 🌐 Projeto Login
@@ -84,23 +100,6 @@ Projeto front-end desenvolvido com foco em HTML5, CSS3 e responsividade.
 Ver projeto: https://luanalsmartins.github.io/projeto-android/
 
 Código: https://github.com/luanalsmartins/projeto-android
-
-
-<!-- ===================== ESTATÍSTICAS DO GITHUB ===================== -->
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight"
-  />
-</p>
-
 
 <!-- ===================== CONTATO PROFISSIONAL ===================== -->
 ## 🔗 Vamos nos conectar?
