@@ -91,12 +91,13 @@ Código: https://github.com/luanalsmartins/projeto-android
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanalsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </p>
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanalsmartins&layout=compact&theme=tokyonight"
   />
 </p>
 
