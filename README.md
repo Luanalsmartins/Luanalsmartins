@@ -73,7 +73,6 @@ Aplicação completa desenvolvida com JavaScript puro, focada em lógica, manipu
 • Responsividade  
 
 Ver projeto: https://luanalsmartins.github.io/projeto-to-do-list/
-
 Código: https://github.com/Luanalsmartins/projeto-to-do-list
 
 ---
